@@ -1,16 +1,30 @@
-## Hi there 👋
+# 👋 Hi, I'm Shaik Bibi Jahera
 
-<!--
-**jahera-shaik/jahera-shaik** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🎓 About Me
+- 🏫 2nd Year Computer Science Student at VIT-AP University
+- 💻 Learning Data Structures & Algorithms
+- 🌱 Currently exploring Full-Stack Web Development
+- 🎯 Goal: Secure SDE Internship in Summer 2026
+- 📍 Based in Amaravati, India
 
-Here are some ideas to get you started:
+## 🛠️ Tech Stack
+**Languages:** Python, Java  
+**Currently Learning:** HTML, CSS, JavaScript, React, Node.js  
+**Tools:** Git, GitHub, VS Code
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📊 GitHub Stats
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=jahera-shaik&show_icons=true&theme=radical)
+
+## 🎯 2026 Goals
+- [ ] Solve 200+ LeetCode problems
+- [ ] Build 3+ full-stack projects
+- [ ] Secure internship at product-based company
+- [ ] Contribute to open-source projects
+
+## 📫 Connect With Me  
+- 📧 Email: jaherashaikbibi@gmail.com
+- 💼 LinkedIn: Coming Soon!
+- 🌐 Portfolio: Coming Soon!
+
+---
+💡 *"Consistent progress beats sporadic intensity"*
