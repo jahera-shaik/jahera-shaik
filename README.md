@@ -23,7 +23,7 @@
 
 ## 📫 Connect With Me  
 - 📧 Email: jaherashaikbibi@gmail.com
-- 💼 LinkedIn: Coming Soon!
+- 💼 LinkedIn: www.linkedin.com/in/jahera-bibi-shaik
 - 🌐 Portfolio: Coming Soon!
 
 ---
