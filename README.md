@@ -24,7 +24,7 @@
 ## 📫 Connect With Me  
 - 📧 Email: jaherashaikbibi@gmail.com
 - 💼 LinkedIn: www.linkedin.com/in/jahera-bibi-shaik
-- 🌐 Portfolio: Coming Soon!
+- 🌐 Portfolio: file:///C:/Users/JAHERA/GoldSach_Hackathon/portfolio/index.html#home
 
 ---
 💡 *"Consistent progress beats sporadic intensity"*
